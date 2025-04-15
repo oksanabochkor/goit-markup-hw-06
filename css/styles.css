@@ -404,9 +404,10 @@ font-weight: 700;
           
             line-height: 107%;
            
-            text-align: center;
+            max-width: 496px;
            
     }
+
 .hero {
     padding: 112px 0;
         max-width: 768px;
@@ -992,11 +993,11 @@ padding-left: 108px;
        /* width: 768px; */
         justify-content: flex-start;
     
-        gap: 24px;
+        gap: 72px 24px;
 
     }
    .footer-text {
-    margin-bottom: 72px;
+    /* margin-bottom: 72px; */
    }
    
          .footer-media {
